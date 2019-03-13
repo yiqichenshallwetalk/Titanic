@@ -1,0 +1,2 @@
+﻿A project from kaggle challenge: https://www.kaggle.com/c/titanic. The goal is to provide a prediction on which passengers were more likely to survive during the sinking of Titanic. Four machine learning models were trained on a processed dataset and evaluated on an 
+independent test set. The random forest model had the best performance among all the models.  
